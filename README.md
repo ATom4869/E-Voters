@@ -5,6 +5,7 @@ This is for my plan "Final Project" in campus
 
 The Decentralized Electronic Voting App which i wish there would be no database be use. The database will be change with ethereum network
 
+*Go to "master" branches to see full file package
 Work Update:
 
 1. Main Function (Voting) ✔ ( 99 % )
