@@ -13,6 +13,6 @@ Work Update:
 4. Decentralized Upload Image Features by Admin 🔷 ( Have in plan, on progress)
 5. ...
 
-###_**Special Announcement**_
+### _**Special Announcement**_
 V2 is already currently in development stage, but it still in back end development step
 with a lot of overhaul in function.
